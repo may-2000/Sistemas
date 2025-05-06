@@ -1,1 +1,3 @@
-Este archivo es el indece de la practica
+Este archivo es el indece de la practica.
+
+Editado para incluir la seccion de resultados.
